@@ -49,7 +49,7 @@ gs-agent gsa.gsc 2 gsa.global.gsm 0 gsa.global.lus 0 gsa.zk 1
 
 # Configuration
 
-Like other Grid Service Components you can use the component-specific configuration for specifying ZooKeeper settings. This is set using the environment variable: `ZOOKEEPER_JAVA_OPTIONS`.
+Like other Grid Service Components you can use the component-specific configuration for specifying ZooKeeper settings. This is set using the environment variable: `XAP_ZOOKEEPER_JAVA_OPTIONS`.
 
 For example:
 
